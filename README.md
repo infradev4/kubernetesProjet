@@ -10,7 +10,7 @@ _Déployez wordpress à l’aide des étapes suivantes:_
 • Créez un service de type nodeport pour exposer le frontend wordpress.
 • Utiliser les manifests pour réaliser cet Projet
 ```
-![Screenshot](assets/meetre-à-jour-wordpress-régulièrement.JPG)
+![Screenshot](assets/meetre-à-jour-wordpress-régulièrement.jpg)
 
 ## Etape 1
 ### Créez un service de type clusterIP

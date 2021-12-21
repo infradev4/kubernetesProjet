@@ -366,6 +366,8 @@ ubuntu@minikube-master:~$ => kubectl describe pod wordpress-55858c5bd7-6nfpj
 ## J'accède à l'interface graphique de Wordpress
 http://107.22.129.170:30001/
 
+### Aperçu en image de la premiere identification
+
 ![Screenshot](assets/2021-12-21 14_50_00.png)
 
 ![Screenshot](assets/2021-12-21 14_51_11.png)

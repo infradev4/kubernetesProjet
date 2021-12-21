@@ -368,13 +368,13 @@ http://107.22.129.170:30001/
 ### Aperçu en image de la premiere identification
 ![alt text](https://github.com/infradev4/kubernetesProjet/blob/main/assets/2021-12-21%2014_50_00.jpg)
 
-![Screenshot](assets/2021-12-21 14_51_11.jpg)
+![alt text](https://github.com/infradev4/kubernetesProjet/blob/main/assets/2021-12-21 14_51_11.jpg)
 
-![Screenshot](assets/2021-12-21 14_53_16.jpg)
+![alt text](https://github.com/infradev4/kubernetesProjet/blob/main/assets/2021-12-21 14_53_16.jpg)
 
-![Screenshot](assets/2021-12-21 14_53_28.jpg)
+![alt text](https://github.com/infradev4/kubernetesProjet/blob/main/assets/2021-12-21 14_53_28.jpg)
 
-![Screenshot](assets/2021-12-21 14_53_52.jpg)
+![alt text](https://github.com/infradev4/kubernetesProjet/blob/main/assets/2021-12-21 14_53_52.jpg)
 
 http://107.22.129.170:30001/wp-admin/
 

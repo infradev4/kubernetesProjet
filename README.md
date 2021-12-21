@@ -10,7 +10,6 @@ _Déployez wordpress à l’aide des étapes suivantes:_
 • Créez un service de type nodeport pour exposer le frontend wordpress.
 • Utiliser les manifests pour réaliser cet Projet
 ```
-![Screenshot](assets/meetre-à-jour-wordpress-régulièrement.jpg)
 
 ## Etape 1
 ### Créez un service de type clusterIP
@@ -367,20 +366,19 @@ ubuntu@minikube-master:~$ => kubectl describe pod wordpress-55858c5bd7-6nfpj
 http://107.22.129.170:30001/
 
 ### Aperçu en image de la premiere identification
+![Screenshot](assets/2021-12-21 14_50_00.jpg)
 
-![Screenshot](assets/2021-12-21 14_50_00.png)
+![Screenshot](assets/2021-12-21 14_51_11.jpg)
 
-![Screenshot](assets/2021-12-21 14_51_11.png)
+![Screenshot](assets/2021-12-21 14_53_16.jpg)
 
-![Screenshot](assets/2021-12-21 14_53_16.png)
+![Screenshot](assets/2021-12-21 14_53_28.jpg)
 
-![Screenshot](assets/2021-12-21 14_53_28.png)
-
-![Screenshot](assets/2021-12-21 14_53_52.png)
+![Screenshot](assets/2021-12-21 14_53_52.jpg)
 
 http://107.22.129.170:30001/wp-admin/
 
-![Screenshot](assets/2021-12-21 14_54_01.PNG)
+![Screenshot](assets/2021-12-21 14_54_01.jpg)
 
 ubuntu@minikube-master:~$ => ls -la /
 ```bash
